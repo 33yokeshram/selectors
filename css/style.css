@@ -1,0 +1,107 @@
+ h1{
+	color:red;
+}
+p{
+	text-align:center;
+	color: blue;
+} 
+#zara{
+	text-align; center;
+	color: red;
+}
+.ride{
+	text-align:center;
+	color:red;
+}
+*{
+	text-align:center;
+	color:blue;
+	
+}
+h3,h4,h5,h6{
+	text-align:center;
+	color;blue;
+} 
+div p {
+	text-align:center;
+background-color: yellow
+}
+.joker > p{
+	text-align:center;
+	background-color:pink;
+}
+div + p {
+	text-align:center;
+	background:orange;
+}
+div ~ p{
+	text-align:center;
+	background:red;
+}
+#bala ~ p{
+	text-align:center;
+	background:red;
+}
+a:link {
+  color: red;
+}
+a:visited {
+  color: green;
+}
+/*a:hover {
+color: hotpink;*/
+
+}
+ a:active {
+  color: blue;
+ }
+/*.dark:hover {
+  color: orange;
+  font-size: 40px;*/
+}
+ div {
+  background-color: red;
+  color: white;
+  padding: 25px;
+  text-align: center;
+}
+
+/*div:hover {
+  background-color: blue;*/
+}
+p {
+  display: none;
+  background-color: pink;
+  padding: 20px;
+}
+
+/*div:hover p {
+  display: block;*/
+}
+/*p i:first-child {
+  color: blue;
+}
+.mass{
+	color:red;
+} 
+.mass{
+	background-color:black;
+	color:red;
+}
+.mass:hover{
+		color:yellow;
+		background-color:green;
+		font-size:20px;
+}
+.main{
+	width:200px;
+	height:200px;
+	background-color:red;
+	
+
+}
+.main:hover{
+	width:400px;
+	height:400px;
+	
+}*/
