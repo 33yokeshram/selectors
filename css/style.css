@@ -74,7 +74,12 @@ p {
   background-color: pink;
   padding: 20px;
 }
-
+a[target=_blank] {
+background-color: yellow;}
+  
+[title~=rx100] {
+    border: 10px solid red;
+}
 /*div:hover p {
   display: block;*/
 }
